@@ -1,5 +1,7 @@
 # 📝 To-Do List Web App
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An interactive, user-friendly, and fully responsive **To-Do List web application** built with HTML, CSS, and JavaScript. It helps you stay organized by tracking your daily tasks with ease.
 
 ---
